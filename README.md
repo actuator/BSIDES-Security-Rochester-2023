@@ -1,5 +1,6 @@
-# BSIDES Rochester '23
+BSIDES Rochester '23
 
+<embed src="github.com/actuator/bsides/files/11007654/BSIDES_Roc_23.pdf" width="1000px" height="2100px" />
 
 
 1 of 2 embedded GIFs that were compressed during PDF conversion.
